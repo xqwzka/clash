@@ -1,0 +1,5 @@
+# 这种格式在订阅时可以在圈X里统一指定策略组
+HOST-SUFFIX, cn2gias
+HOST-SUFFIX, hgemby.qzz.io
+HOST-KEYWORD, emby
+HOST-KEYWORD, qzz
